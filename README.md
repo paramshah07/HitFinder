@@ -3,9 +3,9 @@ An application that lets the user search for any artist and returns as many numb
 <br>
 <br>
 ## → ABOUT
-The aim of this project is to design an application that would allow the user to search for any artist, which would then ask the user for the number of top songs that they want, after which it would show the given number of top songs.        
+This project aims to design an application that would allow the user to search for any artist, which would then ask the user for the number of top songs that they want, after which it would show the given number of top songs.        
 <br>
-## → LANGUAGES
+## → LANGUAGES and API
 - Python
 - Spotify API
 <br>
@@ -22,9 +22,4 @@ Plans for the FUTURE :
 <br>
 <br>
 
-You are free to suggest new ideas to add to this project. ❤
-\
-\
-Made with love, \
-steadyfall
-
+You are free to suggest new ideas to add to this project. 
